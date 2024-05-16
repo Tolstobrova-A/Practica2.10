@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">2.8_Practica</string>
+    <string name="name">Название</string>
+    <string name="address">Адрес</string>
+    <string name="startt">Время открытия</string>
+    <string name="closee">Время закрытия</string>
+    <string name="incorrect_value">Вы ввели некорректное значение</string>
+    <string name="insert_error">При добавлении произошла ошибка</string>
+    <string name="insert_success">Запись успешно добавлена</string>
+</resources>
